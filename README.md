@@ -26,4 +26,4 @@ cd Titanic-Survival-Analysis
 4. Execute the notebooks and modify the code as needed for further exploration or analysis.
 
 ## Contributors
-Michael Oko Odumanye
+Michael Oko Odumanye (https://github.com/michaelodumanye)
