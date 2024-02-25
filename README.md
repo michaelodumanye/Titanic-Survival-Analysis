@@ -16,7 +16,7 @@ The primary objective of this project is to complete the analysis of what sorts 
 
 - ## Usage
 1. Clone this repository to your local machine:
-git clone <repository-url>
+git clone (https://github.com/michaelodumanye/Titanic-Survival-Analysis.git)
 
 2. Navigate to the project directory:
 cd Titanic-Survival-Analysis
